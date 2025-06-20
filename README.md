@@ -8,15 +8,14 @@ Welcome to my portfolio! This website is a live showcase of my technical journey
 
 ### 🚀 About Me
 
-I'm a Computer Science graduate from Osmania University (CSE-AIML) with practical internship experience in software development and data science. I’ve built web applications, machine learning models, dashboards, and even explored OpenAI integrations like DALL·E. I’m continuously upgrading my skills in cloud (Azure), support tools, and backend technologies.
+I'm a Computer Science graduate from Osmania University (CSE-AIML) with practical internship experience in software development and data science. I’ve built web applications, machine learning models, dashboards, and even explored OpenAI integrations like DALL·E. I’m continuously upgrading my skills in cloud AWS, support tools, and backend technologies.
 
 ---
 
 ### 📌 Live Portfolio
 
 🖥️ Visit my portfolio website here:
-👉 [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)
-*(Update this with your actual GitHub Pages link)*
+👉 https://mar-naseer.github.io/marnaseer-portfolio/
 
 📄 View My Resume:
 [📎 Resume (Google Drive)](https://drive.google.com/file/d/14ef2GQCViOc7My8c8XiXNVzR-xQImD_A/view?usp=sharing)
