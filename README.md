@@ -60,7 +60,7 @@ I'm a Computer Science graduate from Osmania University (CSE-AIML) with practica
 * 📧 Email: [rehmannaseer3@gmail.com](mailto:rehmannaseer3@gmail.com)
 * 📞 Phone: +91 8639090710
 * 🔗 [LinkedIn](https://www.linkedin.com/in/marnaseer/)
-* 🌐 [Portfolio Website](https://yourusername.github.io/your-repo-name)
+* 🌐 [Portfolio Website](https://mar-naseer.github.io/marnaseer-portfolio/)
 
 ---
 
