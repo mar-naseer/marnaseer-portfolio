@@ -1,4 +1,4 @@
-# 👋 Mohammad Abdur Rehman Naseer
+# 👋 Hi, I'm Abdur Rehman Naseer Mohammad
 
 **Aspiring Python Developer | AI & ML Enthusiast | IT Support Ready | Osmania University Graduate**
 
@@ -44,7 +44,7 @@ I'm a Computer Science graduate from Osmania University (CSE-AIML) with practica
 * 🎨 **DALL·E Text-to-Image Gen** (OpenAI API + Flask)
 * 🚗 **Self-Driving Car Sim** (JS + Vision + Neural Tuning)
 * 📚 **Django Quiz App** (For Teachers/Students)
-
+& more...
 ---
 
 ### ⚙️ Skills & Tools
