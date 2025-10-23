@@ -24,7 +24,11 @@ I'm a Computer Science graduate from Osmania University (CSE-AIML) with practica
 
 ### 💼 Internships
 
-**Code For India – Python Intern**
+**NetEmpire Pvt Ltd – Python Intern**
+* Developed Python programs with software teams
+* Understood the concept of CRM and Enhance productivity
+ 
+**Code For India – Software Python Intern**
 
 * Built a car price prediction app using Flask & Linear Regression
 * Improved prediction accuracy to 92%
