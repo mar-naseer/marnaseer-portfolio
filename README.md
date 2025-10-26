@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdur Rehman Naseer Mohammad
 
-**Aspiring Python Developer | AI & ML Enthusiast | IT Support Ready | Osmania University Graduate**
+**Aspiring Data Scientist/Engineer | AI & ML Enthusiast | IT Support Ready | Osmania University Graduate**
 
 Welcome to my portfolio! This website is a live showcase of my technical journey, hands-on projects, and career goals in the fields of Python, Machine Learning, and IT Support.
 
