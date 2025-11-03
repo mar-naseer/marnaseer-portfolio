@@ -69,6 +69,7 @@ I'm a Computer Science graduate from Osmania University (CSE-AIML) with practica
 
 ---
 
-> “Always learning, always growing. Let’s build the future with code.”
+> “Always learning, always growing. Let’s build the future with code.
+Connect and Share”
 
 ---
