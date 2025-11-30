@@ -10,6 +10,7 @@ Welcome to my portfolio! This website is a live showcase of my technical journey
 
 I'm a Computer Science graduate from Osmania University (CSE-AIML) with practical internship experience in software development and data science. I’ve built web applications, machine learning models, dashboards, and even explored OpenAI integrations like DALL·E. I’m continuously upgrading my skills in cloud AWS, support tools, and backend technologies.
 
+
 ---
 
 ### 📌 Live Portfolio
