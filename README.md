@@ -47,6 +47,7 @@ I'm a Computer Science graduate from Osmania University (CSE-AIML) with practica
 
 ### 🧠 Projects
 
+* 📚 **Cotton Weed Detection Challenge** (Kaggle Competition, OpenCV + Python)
 * 🔷 **Car Price Prediction App** (Python + Flask)
 * 🎨 **DALL·E Text-to-Image Gen** (OpenAI API + Flask)
 * 🚗 **Self-Driving Car Sim** (JS + Vision + Neural Tuning)
