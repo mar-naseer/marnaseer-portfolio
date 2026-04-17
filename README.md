@@ -2,9 +2,7 @@
 
 **Aspiring Data Scientist/Engineer | AI & ML Enthusiast | Tech Enthusiast | Osmania University Graduate**
 
-Welcome to my portfolio! This website is a live showcase of my technical journey, hands-on projects, and career goals in the fields of Python, Machine Learning, and IT Support.
-
-
+Welcome to my portfolio! This website is a live showcase of my technical journey, hands-on projects, and career goals in the fields of Python, Machine Learning.
 
 ---
 
