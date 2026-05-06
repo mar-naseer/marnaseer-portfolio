@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Abdur Rehman Naseer Mohammad.
 
 **Aspiring Data Scientist/Engineer | AI & ML Enthusiast | Tech Enthusiast | Osmania University Graduate**
+Working at Azista Space APRIL division as ML Engineer Intern 
 
 Welcome to my portfolio! This website is a live showcase of my technical journey, hands-on projects, and career goals in the fields of Python, Machine Learning.
 
