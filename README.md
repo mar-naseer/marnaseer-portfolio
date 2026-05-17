@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdur Rehman Naseer M.
+# 👋 Hi, I'm Abdur Rehman Naseer Md.
 
 **Aspiring Data Scientist/Engineer | AI & ML Enthusiast | Tech Enthusiast | Osmania University Graduate**
 
