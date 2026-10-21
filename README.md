@@ -20,6 +20,7 @@ I'm a Computer Science graduate from Osmania University (CSE-AIML) with practica
 🖥️ Visit my portfolio website here:
 👉 https://mar-naseer.github.io/marnaseer-portfolio/
 
+
 📄 View My Resume:
 [📎 Resume (Google Drive)](https://drive.google.com/file/d/14ef2GQCViOc7My8c8XiXNVzR-xQImD_A/view?usp=sharing)
 
